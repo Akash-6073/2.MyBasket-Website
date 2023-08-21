@@ -1,0 +1,82 @@
+ul {
+    flex-wrap: wrap;
+}
+#home .h {
+    font-size: 1.6rem;
+    margin-top: 126px;
+    
+}
+#home
+{
+    height: 448px;
+    padding: 5px;
+}
+#home::before
+{
+    height: 452px;
+}
+.p
+{
+    font-size: 10px;
+}
+#navbar
+{
+    flex-direction: column;
+
+}
+
+li#items {
+    list-style: none;
+    overflow: hidden;
+}
+#Services
+{
+    flex-direction: column;
+    align-items: center;
+}
+#Services .box
+{
+    margin-top: 8px ;
+    overflow: hidden;
+    width: 90%;
+    height: 100%;
+}
+#service  {
+    left: 0px;
+    padding-top: 10px;
+}
+#Services .box img {
+    height: 93px;
+}
+#service .h1 {
+    overflow: hidden;
+}
+.li {
+    margin-bottom: 8px;
+}
+.li2
+{
+    margin-bottom:8px ;
+}
+
+#clients
+{
+
+    overflow: hidden;
+    flex-wrap: wrap;
+
+}
+#clients #client-item img {
+    height: 100px;
+    padding: 7px;
+    height: 52px;
+}
+#contactbox form
+{
+    overflow: hidden;
+    flex-wrap: wrap;
+
+}
+.type {
+    width: 281px;
+}
